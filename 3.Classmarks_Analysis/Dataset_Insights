@@ -1,0 +1,39 @@
+# Dataset Description:
+
+* The dataset contains 86 entries and 12 columns.
+* The "Total" column seems to represent the total marks.
+* Other columns represent marks for different questions, with scores ranging across different maximum marks.
+
+## Missing Values:
+### columns with missing values:
+* Q3aM5 and Q3bM5 (almost half missing)
+* Q4aM3, Q4bM7, Q6aM4, Q6bM6 (significant missing values)
+
+# Dataset Observations
+
+## Total Marks Distribution
+
+* The total marks range from 3 to 40, with an average of 29.36.
+* Most students scored between 25 and 36, indicating a fairly consistent performance.
+
+## Performance on Individual Questions
+
+* Q1aM4 & Q1bM6:
+    * Students generally performed well, with most scoring close to the maximum.
+* Q2aM6 & Q2bM4:
+    * Q2aM6 has a higher average (5.29 out of 6), suggesting students found it easier.
+* Q3aM5 & Q3bM5:
+    * Many missing values, but students who answered scored around 4 out of 5.
+* Q4aM3 & Q4bM7:
+    * Fewer responses, especially in Q4bM7, indicating it might be an optional or difficult question.
+* Q5M10:
+    * High scores overall (average: 8 out of 10), suggesting students performed well.
+* Q6aM4 & Q6bM6:
+    * Lower number of responses, but scores are mostly above average.
+
+## Missing Data Issues
+
+* Some questions (Q3, Q4, Q6) have significant missing values, which might indicate:
+    * Optional questions
+    * Data entry issues
+    * Students skipping certain questions
