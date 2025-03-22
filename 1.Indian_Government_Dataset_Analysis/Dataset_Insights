@@ -30,7 +30,7 @@ Initial Analysis of the Dataset
    - The histogram of minimum prices suggests that most onion prices fall within a certain range.
    - The violin and boxplots indicate price spread and outliers among different varieties.
 
-5. **Trend Over Time:**
+5. Trend Over Time:
    - The line chart of average price per year shows a possible rising or fluctuating trend.
    - Peak or dip years might be correlated with supply-chain issues, demand surges, or external factors.
 
